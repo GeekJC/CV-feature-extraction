@@ -1,0 +1,6 @@
+; Corner.def : Declares the module parameters for the DLL.
+
+LIBRARY      "corner"
+
+EXPORTS
+    ; Explicit exports can go here
